@@ -1,0 +1,2 @@
+# BeautyStyle
+GitHub Pages
